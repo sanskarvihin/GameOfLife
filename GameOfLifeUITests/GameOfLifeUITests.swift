@@ -2,7 +2,7 @@
 //  GameOfLifeUITests.swift
 //  GameOfLifeUITests
 //
-//  Created by Bipin Gohel on 11.05.18.
+//  Created by Bipin Gohel on 19.05.18.
 //  Copyright © 2018 Bipin Gohel. All rights reserved.
 //
 

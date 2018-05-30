@@ -11,5 +11,5 @@ Approach,
     - Update View as per next status for every node inside nodesToCheck list
 
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400" height="400" />
+<img src="https://github.com/sanskarvihin/GameOfLife/blob/master/demo.gif" width="320" height="580" />
 

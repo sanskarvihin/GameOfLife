@@ -10,3 +10,6 @@ Approach,
     - Apply rules of Game of Life, as per no of alive neighbour of an given node in nodesToCheck. Change their next state to as per rules.
     - Update View as per next status for every node inside nodesToCheck list
 
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400" height="400" />
+
